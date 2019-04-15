@@ -1,0 +1,7 @@
+C:\Users\Zane\source\repos\F.L\F.L\bin\Debug\F.L.exe.config
+C:\Users\Zane\source\repos\F.L\F.L\bin\Debug\F.L.exe
+C:\Users\Zane\source\repos\F.L\F.L\bin\Debug\F.L.pdb
+C:\Users\Zane\source\repos\F.L\F.L\obj\Debug\F.L.csprojAssemblyReference.cache
+C:\Users\Zane\source\repos\F.L\F.L\obj\Debug\F.L.csproj.CoreCompileInputs.cache
+C:\Users\Zane\source\repos\F.L\F.L\obj\Debug\F.L.exe
+C:\Users\Zane\source\repos\F.L\F.L\obj\Debug\F.L.pdb
